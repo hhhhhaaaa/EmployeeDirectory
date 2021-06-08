@@ -8,7 +8,7 @@ function App() {
     <Router>
       <div>
         <Wrapper>
-          <Route exact path="/employeedirectory" component={Home} />
+          <Route exact path="/EmployeeDirectory" component={Home} />
         </Wrapper>
       </div>
     </Router>
